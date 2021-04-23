@@ -6,3 +6,5 @@ npm-debug.log
 .nuxt
 # Nuxt generate
 dist
+# vscode workspace settings
+.vscode
