@@ -41,5 +41,9 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
+  },
+
+  router: {
+    linkExactActiveClass: 'text-gray-900 bg-gray-200 dark-mode:bg-gray-700 md:ml-4' // tailwind class with custom color
   }
 }
