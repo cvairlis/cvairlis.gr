@@ -44,6 +44,6 @@ export default {
   },
 
   router: {
-    linkExactActiveClass: 'text-gray-900 bg-gray-200 dark-mode:bg-gray-700 md:ml-4' // tailwind class with custom color
+    linkExactActiveClass: 'text-gray-900 bg-gray-200 dark-mode:bg-gray-700 md:ml-4' // tailwind classes
   }
 }
