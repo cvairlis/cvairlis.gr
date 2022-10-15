@@ -1,4 +1,4 @@
-# [chariss.gr](https://chariss.gr) - My personal webpage #
+# [cvairlis.gr](https://cvairlis.gr) - My personal webpage #
 ## My Personal Webpage repository #
 
-Feel free to visit my personal webpage [chariss.gr](https://chariss.gr)
+Feel free to visit my personal webpage [cvairlis.gr](https://cvairlis.gr)
